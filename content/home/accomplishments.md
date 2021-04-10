@@ -45,6 +45,6 @@ item:
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Learning How to Learn: Powerful mental tools to help you master tough subjects
+  title: "Learning How to Learn: Powerful mental tools to help you master tough subjects"
   url: ""
 ---
