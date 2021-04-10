@@ -28,7 +28,7 @@ experience:
     location: Paris
     date_start: '2017-09-15'
     date_end: '2021-03-19'
-    description: 
+    description: |2-
         * Neural Networks for Time Series (RNN, CNN, VAE, Attention)
         * Research and Applications
         * Won the Argoverse Motion Forecasting Competition in 2019 and 2020
