@@ -31,10 +31,10 @@ authors:
 - admin
 
 tags:
-- Academic
+- Nothing
 
 categories:
-- Demo
+- None
 ---
 
 ## Overview
