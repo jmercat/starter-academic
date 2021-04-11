@@ -21,6 +21,7 @@ interests:
 - Artificial Intelligence
 - Scientific Computing
 - Neural Networks
+- Autonomous Driving
 
 # Education to show in About widget
 education:
@@ -52,9 +53,6 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jean-mercat/
-- icon: envelope
-  icon_pack: fas
-  link: mailto:jean.mercat@gmail.com
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,6 +68,6 @@ email: "jean.mercat@gmail.com"
 highlight_name: false
 ---
 
-Jean Mercat is holds a doctorate in artificial intelligence from the Paris Saclay University. His research interests include machine learning, neural networks, autonomous driving, and scientific computing.
+Jean Mercat holds a doctorate in artificial intelligence from the Paris Saclay University. His research interests include machine learning, neural networks, autonomous driving, and scientific computing.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_AI_research_scientist.pdf" "newtab" >}}resumé{{< /staticref >}}.
