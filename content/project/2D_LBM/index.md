@@ -20,7 +20,7 @@ url_video: "https://youtu.be/s7RWTfwuPZo"
 
 This project is the continuation of a school project made at [ENSEIRB-MatMeca](https://enseirb-matmeca.bordeaux-inp.fr) in Fortran. I have re-written it in C++ using the [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) library and added a simple [Qt](https://www.qt.io/) interactive interface.
 
-[![Video showing the interactive interface.](http://img.youtube.com/vi/s7RWTfwuPZo/0.jpg)](http://www.youtube.com/watch?v=s7RWTfwuPZo)
+{{< youtube s7RWTfwuPZo >}}
 
 ---
 
