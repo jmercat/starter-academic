@@ -70,4 +70,4 @@ highlight_name: false
 
 Jean Mercat holds a doctorate in artificial intelligence from the Paris Saclay University. His research interests include machine learning, neural networks, autonomous driving, and scientific computing.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_AI_research_scientist.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_AI_research_scientist.pdf" "newtab" >}}resumé{{< /staticref >}}.
