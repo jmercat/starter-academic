@@ -23,30 +23,41 @@ This project is the continuation of a school project made at [ENSEIRB-MatMeca](h
 {{< youtube s7RWTfwuPZo >}}
 
 ---
+<html lang="en">
+  <head>
+    <title>WebGL Demo</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="./webgl.css" type="text/css">
+  </head>
 
-<script type="text/javascript" src="{{ <body>
-  <canvas id="glCanvas" width="640" height="480"></canvas>
-  main();
-  
-  //
-  // Début ici
-  //
-  function main() {
-    const canvas = document.querySelector("#glCanvas");
-    // Initialisation du contexte WebGL
-    const gl = canvas.getContext("webgl");
-  
-    // Continuer seulement si WebGL est disponible et fonctionnel
-    if (!gl) {
-      alert("Impossible d'initialiser WebGL. Votre navigateur ou votre machine peut ne pas le supporter.");
-      return;
+  <body>
+    <canvas id="glcanvas" width="640" height="480"></canvas>
+  </body>
+
+  <script>
+    main();
+
+    //
+    // Start here
+    //
+    function main() {
+      const canvas = document.querySelector('#glcanvas');
+      // Initialize the GL context
+      const gl = canvas.getContext('webgl');
+
+      // If we don't have a GL context, give up now
+      // Only continue if WebGL is available and working
+
+      if (!gl) {
+        alert('Unable to initialize WebGL. Your browser or machine may not support it.');
+        return;
+      }
+
+      // Set clear color to black, fully opaque
+      gl.clearColor(0.0, 0.0, 0.0, 1.0);
+      // Clear the color buffer with specified clear color
+      gl.clear(gl.COLOR_BUFFER_BIT);
     }
-  
-    // Définir la couleur d'effacement comme étant le noir, complètement opaque
-    gl.clearColor(0.0, 0.0, 0.0, 1.0);
-    // Effacer le tampon de couleur avec la couleur d'effacement spécifiée
-    gl.clear(gl.COLOR_BUFFER_BIT|gl.DEPTH_BUFFER_BIT);
-  }
-</body> }}" defer> </script>
-
+  </script>
+</html>
 ---
