@@ -23,6 +23,8 @@ This project is the continuation of a school project made at [ENSEIRB-MatMeca](h
 {{< youtube s7RWTfwuPZo >}}
 
 ---
+
+
 <html lang="en">
   <head>
     <title>WebGL Demo</title>
@@ -60,4 +62,3 @@ This project is the continuation of a school project made at [ENSEIRB-MatMeca](h
     }
   </script>
 </html>
----
