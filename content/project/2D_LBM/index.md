@@ -24,7 +24,7 @@ This project is the continuation of a school project made at [ENSEIRB-MatMeca](h
 
 ---
 
-<body>
+<script type="text/javascript" src="{{ <body>
   <canvas id="glCanvas" width="640" height="480"></canvas>
   main();
   
@@ -47,6 +47,6 @@ This project is the continuation of a school project made at [ENSEIRB-MatMeca](h
     // Effacer le tampon de couleur avec la couleur d'effacement spécifiée
     gl.clear(gl.COLOR_BUFFER_BIT|gl.DEPTH_BUFFER_BIT);
   }
-</body>
+</body> }}" defer> </script>
 
 ---
