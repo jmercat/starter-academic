@@ -4,7 +4,7 @@ title: Argoverse motion forecasting challenge CVPR 2020
 event: Autonomous Driving workshop at CVPR 2020
 event_url: https://www.youtube.com/watch?v=Vcbj_peZT4Q
 
-location: Vancouver, Canada
+location: Online
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
