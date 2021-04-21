@@ -1,5 +1,5 @@
 ---
-title: There are no posts yet.
+title: There is no post yet.
 
 # Summary for listings and search engines
 summary: No summary for no post.
