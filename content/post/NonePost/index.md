@@ -47,6 +47,6 @@ categories:
 
 - 👉 [Nothing](https://www.google.com/search?q=nothing)
 
-## Super lien vers super projet LBM
+## Super vidéo de Tiphaine
 
-[Le lien](https://jean-mercat.netlify.app/project/2d_lbm/)
+{{< youtube Tbx7SCCol9l>}}
