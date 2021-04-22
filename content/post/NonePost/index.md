@@ -46,3 +46,7 @@ categories:
 ## Looking for Nothing
 
 - 👉 [Nothing](https://www.google.com/search?q=nothing)
+
+## Super lien vers super projet LBM
+
+[Le lien](https://jean-mercat.netlify.app/project/2d_lbm/)
