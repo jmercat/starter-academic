@@ -16,6 +16,4 @@ image:
 
 Download the PhD manuscript: [cick here](/media/PhD.pdf)
 
-# {{ < embed-pdf url="/media/PhD.pdf" > }}
-
 ---
