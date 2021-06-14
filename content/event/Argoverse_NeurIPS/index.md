@@ -25,7 +25,7 @@ all_day: false
 publishDate: "2019-12-14T00:00:00Z"
 
 authors: []
-tags: []
+tags: [Deep Learning]
 
 # Is this a featured talk? (true/false)
 featured: false
