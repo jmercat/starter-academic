@@ -13,7 +13,9 @@ location: Nantes
 #   country: United States
 
 summary: Présentation des résultats appliqués de mes travaux de thèse.
-# abstract: "Path prediction aims at producing safer systems by allowing them to anticipate the outcomes of road scenes situations. Lately, machine learning methods have been used extensively for that purpose. Neural networks in particular with architectures such as RNN, LSTM, CNN, and self-attention. They offer the best results with the commonly used metrics. However, these evaluation criteria do not guarantee safety and can be criticized. More requirements should be met than the minimization of a few metrics."
+abstract: "Pour éviter un accident, un système automatisé d'aide à la conduite ou un système de conduite autonome doit être capable d'anticiper les mouvements des scènes routières. Plusieurs approches permettent cette capacité d’anticipation. La plus employée utilise un découpage en trois modules : Perception, Prédiction, Planification. La prédiction est une estimation de l'évolution du futur. Elle permet une planification qui anticipe les mouvements futurs dans sa prise de décision. La prédiction s’appuie sur la perception de la scène à l’aide de capteurs ainsi que des connaissances a priori sur les comportements des différents agents.
+Les méthodes les plus récentes pour combiner des perceptions complexes avec l’apprentissage des comportements habituels emploient les réseaux de neurones. Plusieurs difficultés importantes se posent pour l’apprentissage statistique des scènes routières : l’imperfection des observations, les évènements rares, et les interdépendances ou interactions. Jean Mercat présentera les résultats de ses travaux de thèse portant en particulier sur ce dernier point. Il détaillera en particulier l’architecture «transformer» ou «auto-attention» qui est maintenant employée dans de nombreuses applications des réseaux de neurones.
+"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -57,5 +59,9 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
+---
+
+Download the slides: [cick here](/media/Meet-up_Nantes_pdf.pdf)
 
 ---
