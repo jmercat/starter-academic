@@ -19,7 +19,7 @@ summary: A short presentation of the winning entries at the Argoverse challenge.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-07-01T13:00:00Z"
 # date_end: "2019-10-22T15:00:00Z"
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-07-01T00:00:00Z"
