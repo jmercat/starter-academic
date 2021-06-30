@@ -10,8 +10,8 @@ role: Research Scientist in Machine Learning
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: L2S, Centrale Supélec
-  url: https://l2s.centralesupelec.fr/
+- name: Toyota Research Institute, Los Altos, CA
+  url: https://www.tri.global/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Scientific Computing, Robotics, and Neural Networks.
