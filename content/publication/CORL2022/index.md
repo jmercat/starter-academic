@@ -76,15 +76,20 @@ image:
 slides: ""
 ---
 
-<iframe
-    src="https://huggingface.co/spaces/TRI-ML/risk_biased_prediction.hf.space"
-    frameborder="0"
-    width="850"
-    height="450"
-></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/56LzTZfwY2Q?start=44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
+<style>
+#wrap { width: 850px; height: 1040px; padding: 0; overflow: hidden; }
+#frame { width: 1500px; height: 2080px; border: 1px solid black; }
+#frame { zoom: 0.5; -moz-transform: scale(0.5); -moz-transform-origin: 0 0; }
+</style>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/56LzTZfwY2Q?start=44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div id="wrap">
+<iframe
+  id="frame"
+	src="https://tri-ml-risk-biased-prediction.hf.space"
+></iframe>
+</div>
 
 ---
