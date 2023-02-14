@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: "2 Jan 2006"
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -22,6 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: "Research Scientist"
+    company: "Toyota Research Institute"
+    company_url: "https://www.tri.global/"
+    location: "Los Altos, California"
+    date_start: "2021-07-15"
+    date_end: ""
+    description: |2-
+        * Principled Machine Learning for Embodied Motor-Sensory Systems
+        * Research and Applications in ML and Robotics
+        * Specialized in Generative Models for Trajectories 
+
   - title: "PhD Road Scene Motion Forecasting"
     company: "L2S/Renault"
     company_url: ''
@@ -29,7 +40,7 @@ experience:
     date_start: '2017-09-15'
     date_end: '2021-03-19'
     description: |2-
-        * Neural Networks for Time Series (RNN, CNN, VAE, Attention)
+        * Generative Neural Networks for Time Series Forecasting (RNN, CNN, (C)VAE, Self-Attention)
         * Research and Applications
         * Won the Argoverse Motion Forecasting Competition in 2019 and 2020
         

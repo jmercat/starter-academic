@@ -6,7 +6,7 @@ title: Jean Mercat
 superuser: true
 
 # Role/position/tagline
-role: Research Scientist in Machine Learning
+role: Research Scientist in ML
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,15 +18,15 @@ bio: My research interests include Scientific Computing, Robotics, and Neural Ne
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Scientific Computing
-- Neural Networks
+- Robotics
+- Machine Learning
 - Autonomous Driving
+- Scientific Computing
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Machine Learning
     institution: Paris Saclay
     year: 2021
   - course: MEng in Scientific Computing
@@ -68,4 +68,4 @@ email: "jean.mercat@gmail.com"
 highlight_name: false
 ---
 
-Jean Mercat holds a doctorate in artificial intelligence from the Paris Saclay University. His research interests include machine learning, neural networks, autonomous driving, and scientific computing.
+As a research scientist at the Toyota Research Institute, I bring my expertise in machine learning with a doctorate from Paris Saclay University. My current research interests include developing embodied machine learning solutions for sensory-motor systems and exploring the frontiers of robotics with human interactions. Through my work, I am dedicated to advancing state-of-the-art ML research for robotics and driving meaningful innovation.
