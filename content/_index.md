@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I'm a research scientist at Toyota Research Institute. I pre-train, uptrain, fine-tune, experiment, and do research with Large Language Models, Vision Language Models, and Large Behavior Models.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I attempt to understand and improve transformers. I apply large models to robotic manipulation to push the boundary of open-ended embodied intelligence.
         
         Please reach out to collaborate 😃
     design:
