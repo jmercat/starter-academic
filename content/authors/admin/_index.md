@@ -38,7 +38,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/jmercat
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/jean-mercat-056567216/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=fr&user=xmUDkvQAAAAJ&view_op=list_works&gmla=AJsN-F7_gLwY1RI0Kl7gkf7W1jADsdHqCTeF7zK_JQ8wV5nCBoELKvuYiZ3KNUkPHO0IARHWbU9KgaUR-hsy6kpsp-5z3NY6byJosBu2ZGyMJsPFEN03q0vjHmWGL0FOnkCeiBbJRF9r8IOlj2YwnYNpHJcSbBLu3ymUSRCg85kBmvQW_IItFcxFfSJOaij8KSGo-QFcoD6e7YBXIGxeG2nLsnRwWFIrWA&sciund=14203063805389349973
   # - icon: academicons/orcid
