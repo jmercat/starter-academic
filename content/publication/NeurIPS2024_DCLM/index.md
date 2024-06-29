@@ -73,15 +73,15 @@ publishDate: "2024-06-17T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+# publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *arXiv*
-publication_short: In *arXiv*
+# publication: In *arXiv*
+# publication_short: In *arXiv*
 
 abstract: We introduce DataComp for Language Models (DCLM), a testbed for controlled dataset experiments aimed at improving language models. DCLM includes a standardized corpus of 240T tokens from Common Crawl, effective pretraining recipes using the OpenLM framework, and a suite of 53 downstream evaluations. We emphasize data curation strategies like deduplication, filtering, and data mixing across model scales from 412M to 7B parameters. Our baseline model, DCLM-Baseline, achieves a 64% 5-shot accuracy on MMLU, showing a significant improvement over previous open-data models while requiring less compute. Our findings underline the importance of dataset design in training language models.
 
-tags: []
+# tags: []
 
 # Display this page in the Featured widget?
 featured: true

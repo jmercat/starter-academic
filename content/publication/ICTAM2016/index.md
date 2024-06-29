@@ -23,7 +23,7 @@ publishDate: "2016-08-21T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+# publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *International Congress of Theoretical and Applied Mechanics*
@@ -34,7 +34,7 @@ abstract: This work reports the emergence of metachronal waves in cilia arrays i
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

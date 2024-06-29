@@ -74,9 +74,9 @@ work:
     date_start: "2021-07-15"
     date_end: ""
     summary: |2-
-        * Principled Machine Learning for Embodied Motor-Sensory Systems
-        * Research and Applications in ML and Robotics
-        * Specialized in Generative Models for Trajectories 
+        * Research in LLMs, VLMs, and applications in Robotics
+        * Pre-training LLMs (up to 7B for 1T tokens), multi-modal models
+        * Manage interns and university collaborators
 
   - position: Data Engineer
     company_name: Inria

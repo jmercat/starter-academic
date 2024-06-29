@@ -21,7 +21,7 @@ publishDate: "2015-11-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+# publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *American Physics Society, Division of Fluid Dynamics*
@@ -29,10 +29,10 @@ publication_short: In *APS*
 
 abstract: Cilia are flexible elongated whip-like structures which are ubiquitous in nature. Indeed, the collective beating of arrays of thousands of cilia can transport fluid (mucus in airways) or induce locomotion on microorganisms swimming in water. From a purely hydrodynamical point of view, cilia do not beat randomly, but rather generate typical metachronal waves at their surface. In this work, we study the self-organization of the beating motion of large fields of beating cilia in a two-component flow environment, made of water and a much more viscous fluid. The numerical solver is based on an immersed boundary-lattice Boltzmann method in the context of single- and multi-component fluid flows, and in the presence of fixed or moving solid boundaries. The solver has been validated in previous studies. Various parameters are varied, such as length, spacing and phase motion of individual cilia. The energetic performances of different kind of waves are studied to understand the emergence of antiplectic metachronal waves, commonly observed in nature. It is found that a purely hydrodynamical coupling between fluid and cilia can explain the onset of metachronal waves in cilia arrays, and that these waves are maximizing a performance ratio.
 
-tags: []
+# tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

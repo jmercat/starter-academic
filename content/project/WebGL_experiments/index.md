@@ -2,14 +2,17 @@
 title: Some WebGL experiments
 tags:
 - Scientific Computing
-date: "2020-28-04T00:00:00Z"
+
+date: "2020-28-01T00:00:00Z"
+publishDate: "2020-28-01T00:00:00Z"
+
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ""
 
-# image:
-#   caption: None
-#   focal_point: Smart
+image:
+  caption: None
+  focal_point: Smart
 
 ---
 

@@ -39,7 +39,6 @@ sections:
 
         I attempt to understand and improve transformers. I apply large models to robotic manipulation to push the boundary of open-ended embodied intelligence.
         
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection

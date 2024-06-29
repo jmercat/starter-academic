@@ -1,21 +1,20 @@
 ---
-title: "Linearizing Large Language Models"
+title: "Dynamics-Aware Comparison of Learned Reward Functions"
 
 # Authors
 authors:
+- Blake Wulfe
+- Logan Ellis
 - Jean Mercat
-- Igor Vasiljevic
-- Sedrick Keh
-- Kushal Arora
-- Achal Dave
+- Rowan McAllister
 - Adrien Gaidon
-- Thomas Kollar
+- Ashwin Balakrishna
 
-date: "2024-05-14T00:00:00Z"
-doi: "arXiv:2405.06640"
+date: "2022-01-24T00:00:00Z"
+doi: "arXiv:2201.10081"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-05-14T00:00:00Z"
+publishDate: "2022-01-24T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,34 +23,34 @@ publishDate: "2024-05-14T00:00:00Z"
 # publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *COLM* (under review)
-publication_short: In *COLM*
+publication: In *arXiv*
+publication_short: In *arXiv*
 
-abstract: We propose Scalable UPtraining for Recurrent Attention (SUPRA), a method to uptrain existing large pre-trained transformers into Recurrent Neural Networks (RNNs) with minimal compute. This approach leverages pre-trained transformers' strong performance while significantly reducing training costs. SUPRA demonstrates competitive performance on benchmarks but shows limitations in in-context learning and long-context tasks. Our code and models are available at [https URL](https://github.com/TRI-ML/linear_open_lm).
+abstract: Evaluating learned reward functions can be challenging due to their reliance on the policy search algorithm used to optimize them. We propose Dynamics-Aware Reward Distance (DARD), a new pseudometric that leverages a transition model of the environment to transform reward functions for more reliable comparisons. DARD is invariant to reward shaping and only evaluates reward functions on transitions close to their training distribution. Our experiments in simulated physical domains demonstrate that DARD provides accurate reward comparisons without policy optimization and outperforms baseline methods.
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2405.06640.pdf'
-url_code: 'https://github.com/TRI-ML/linear_open_lm'
+url_pdf: 'https://arxiv.org/pdf/2201.10081.pdf'
+url_code: 'https://sites.google.com/view/dard-paper'
 # url_dataset: ''
 # url_poster: ''
-url_project: 'https://github.com/TRI-ML/linear_open_lm'
+url_project: 'https://sites.google.com/view/dard-paper'
 # url_slides: ''
 # url_source: ''
-url_video: ''
+url_video: 'https://sites.google.com/view/dard-paper'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Graphical representation of SUPRA linearization strategy.'
+  caption: 'Visualization of DARD transformation applied to a transition in a simple MDP.'
   focal_point: ""
   preview_only: false
 

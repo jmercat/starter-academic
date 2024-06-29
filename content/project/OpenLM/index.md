@@ -1,37 +1,28 @@
 ---
-title: "Language Models Scale Reliably with Over-Training and on Downstream Tasks"
+title: "OpenLM: A Minimal but Performative Language Modeling (LM) Repository"
 
 # Authors
 authors:
-- Samir Yitzhak Gadre
-- Georgios Smyrnis
-- Vaishaal Shankar
 - Suchin Gururangan
 - Mitchell Wortsman
-- Rulin Shao
-- Jean Mercat
-- Alex Fang
-- Jeffrey Li
-- Sedrick Keh
-- Rui Xin
-- Marianna Nezhurina
-- Igor Vasiljevic
-- Jenia Jitsev
-- Alexandros G. Dimakis
-- Gabriel Ilharco
-- Shuran Song
-- Thomas Kollar
-- Yair Carmon
+- Samir Yitzhak Gadre
 - Achal Dave
+- Maciej Kilian
+- Weijia Shi
+- Jean Mercat
+- Georgios Smyrnis
+- Gabriel Ilharco
+- Matt Jordan
 - Reinhard Heckel
-- Niklas Muennighoff
+- Alex Dimakis
+- Ali Farhadi
+- Vaishaal Shankar
 - Ludwig Schmidt
 
-date: "2024-03-14T00:00:00Z"
-doi: "arXiv:2403.08540"
+date: "2023-01-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-03-14T00:00:00Z"
+publishDate: "2023-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -40,9 +31,10 @@ publishDate: "2024-03-14T00:00:00Z"
 # publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In NeurIPS 2024
+publication: In *GitHub repository*
+publication_short: In *GitHub*
 
-abstract: Scaling laws guide the development of language models, but gaps exist between scaling studies and real-world model training and evaluation. Models are often over-trained to reduce inference costs, and scaling laws predict loss rather than downstream task performance. We create a testbed of 104 models, training them with various tokens and data distributions, to study scaling in the over-trained regime. We find consistent power laws in scaling and predict downstream task performance via a power law relationship with perplexity. Our experiments are available at [https URL](https://github.com/mlfoundations/scaling).
+abstract: OpenLM is introduced as a minimal yet high-performance language modeling repository. This repository aims to simplify the implementation and experimentation of language models while maintaining competitive performance. The framework supports various model architectures and training regimes, enabling rapid prototyping and benchmarking. The repository includes pre-trained models and fine-tuning scripts to facilitate research and development in the field of natural language processing. OpenLM is designed to be user-friendly, making it accessible for both novice and experienced researchers.
 
 tags: []
 
@@ -54,19 +46,18 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2403.08540.pdf'
-url_code: 'https://github.com/mlfoundations/scaling'
+url_code: 'https://github.com/mlfoundations/open_lm'
 # url_dataset: ''
 # url_poster: ''
-url_project: 'https://github.com/mlfoundations/scaling'
+url_project: 'https://laion.ai/blog/open-lm/'
 # url_slides: ''
 # url_source: ''
-url_video: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Visualization of scaling laws in over-trained models.'
+  caption: 'Visualization of the OpenLM repository framework and capabilities.'
   focal_point: ""
   preview_only: false
 

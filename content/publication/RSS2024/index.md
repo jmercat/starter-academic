@@ -109,18 +109,17 @@ publishDate: "2024-03-25T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+# publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *arXiv*
-publication_short: In *arXiv*
+publication: In RSS 2024
 
 abstract: We introduce DROID (Distributed Robot Interaction Dataset), a large-scale, diverse robot manipulation dataset featuring 76k demonstration trajectories or 350 hours of interaction data across 564 scenes and 86 tasks. Collected by 50 data collectors over 12 months in various locations, DROID aims to enhance policy performance and generalization in robot manipulation tasks. We provide the full dataset, policy learning code, and a guide for reproducing our hardware setup. DROID sets a new standard in dataset diversity and quality for training robust robotic manipulation policies.
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
