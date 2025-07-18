@@ -1,9 +1,9 @@
 ---
-title: "OpenLM: A Minimal but Performative Language Modeling (LM) Repository"
+title: "OpenThoughts: Data Recipes for Reasoning Models"
 
 # Authors
 authors:
-- Suchin Gururangan
+- Etash Guha
 - Mitchell Wortsman
 - Samir Yitzhak Gadre
 - Achal Dave
@@ -19,19 +19,20 @@ authors:
 - Vaishaal Shankar
 - Ludwig Schmidt
 
-date: "2023-01-01T00:00:00Z"
+date: "2025-06-04T00:00:00Z"
+doi: "arXiv:2506.04178"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-01-01T00:00:00Z"
+publishDate: "2025-06-04T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-# publication_types: ["3"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *GitHub repository*
+publication: arXiv preprint
 publication_short: In *GitHub*
 
 abstract: OpenLM is introduced as a minimal yet high-performance language modeling repository. This repository aims to simplify the implementation and experimentation of language models while maintaining competitive performance. The framework supports various model architectures and training regimes, enabling rapid prototyping and benchmarking. The repository includes pre-trained models and fine-tuning scripts to facilitate research and development in the field of natural language processing. OpenLM is designed to be user-friendly, making it accessible for both novice and experienced researchers.

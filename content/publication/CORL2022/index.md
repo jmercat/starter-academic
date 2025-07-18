@@ -31,7 +31,7 @@ abstract: Robust planning in interactive scenarios requires predicting the uncer
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

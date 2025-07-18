@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research Scientist
+role: Senior Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -133,6 +133,8 @@ languages:
     percent: 100
   - name: English
     percent: 99
+  - name: chinese
+    percent: 1
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -168,4 +170,4 @@ languages:
 
 ## About Me
 
-I’m a machine learning research scientist at the Toyota Research Institute, where I specialize in transformers, large language models, vision language models, and large behavior models. My passion for ML has led me to explore a variety of fields, including self-driving cars, robotics, and language processing. Whether it's making a language model smarter or teaching robots new tricks, I’m always on the lookout for the next big breakthrough!
+I’m a senior machine learning research scientist at the Toyota Research Institute, where I specialize in transformers, large language models, vision language models, and large behavior models. My passion for ML has led me to explore a variety of fields, including self-driving cars, robotics, and language processing. I care about a careful scientific process including thorough evaluation-driven experimentations, I aim for a large downstream impact of my research, and I want to always learn from awesome coworkers.

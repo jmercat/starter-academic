@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm a research scientist at Toyota Research Institute. I pre-train, uptrain, fine-tune, experiment, and do research with Large Language Models, Vision Language Models, and Large Behavior Models.
+        I'm a senior research scientist at Toyota Research Institute. I pre-train, uptrain, fine-tune, experiment, and do research with Large Language Models, Vision Language Models, and Large Behavior Models.
 
-        I attempt to understand and improve transformers. I apply large models to robotic manipulation to push the boundary of open-ended embodied intelligence.
+        I attempt to understand and improve large models, their evaluation process, and their training data. I apply large models to robotic manipulation, and agents to push the boundary of open-ended embodied intelligence.
         
     design:
       columns: '1'
@@ -45,6 +45,7 @@ sections:
     id: papers
     content:
       title: Featured Publications
+      count: 6
       filters:
         folders:
           - publication
