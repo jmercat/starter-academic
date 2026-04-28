@@ -170,4 +170,5 @@ languages:
 
 ## About Me
 
-I’m a senior machine learning research scientist at the Toyota Research Institute, where I specialize in transformers, large language models, vision language models, and large behavior models. My passion for ML has led me to explore a variety of fields, including self-driving cars, robotics, and language processing. I care about a careful scientific process including thorough evaluation-driven experimentations, I aim for a large downstream impact of my research, and I want to always learn from awesome coworkers.
+Senior Machine Learning Research Scientist at Toyota Research Institute (TRI), specializing in transformer pretraining. My work focuses on model architecture, data scaling, and evaluation methodology. Over 8 years, I’ve applied these ideas to self-driving, language models (LLM), multimodal models (VLM), and robotics (VLA), with an emphasis on rigorous data-driven experimentation. \\
+I value working in strong collaborative environments and impactful results.
