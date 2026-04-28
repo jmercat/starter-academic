@@ -170,5 +170,5 @@ languages:
 
 ## About Me
 
-Senior Machine Learning Research Scientist at Toyota Research Institute (TRI), specializing in transformer pretraining. My work focuses on model architecture, data scaling, and evaluation methodology. Over 8 years, I’ve applied these ideas to self-driving, language models (LLM), multimodal models (VLM), and robotics (VLA), with an emphasis on rigorous data-driven experimentation. \\
+Senior Machine Learning Research Scientist at Toyota Research Institute (TRI), specializing in transformer pretraining. My work focuses on model architecture, data scaling, and evaluation methodology. Over 8 years, I’ve applied these ideas to self-driving, language models (LLM), multimodal models (VLM), and robotics (VLA), with an emphasis on rigorous data-driven experimentation.
 I value working in strong collaborative environments and impactful results.
